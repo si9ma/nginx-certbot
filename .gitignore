@@ -1,4 +1,4 @@
 /data/certbot
 init-letsencrypt.sh
-data/nginx/conf.d/app.conf
 data/nginx/nginx.conf
+data/nginx/conf.d/app.conf
